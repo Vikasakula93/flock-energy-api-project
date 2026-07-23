@@ -2,7 +2,7 @@
 
 A clean REST API wrapper built over the legacy **Urja Meter Ops** portal.
 
-The original portal was designed for human operators using a browser. This project provides a developer-friendly API layer so other applications can consume meter information without directly interacting with the portal.
+Developed a RESTful API integration service using Node.js and Express to securely connect with an energy meter operations portal. Implemented automated authentication, session management, meter search, energy consumption retrieval, and geo-location APIs. Deployed the backend on Render with production-ready configuration.
 
 ---
 
