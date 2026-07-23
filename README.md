@@ -360,4 +360,4 @@ Swagger UI:
 
 # Author
 
-Built as part of the Flock Energy Engineering Take-Home Assignment.
+Vikas Akula 
