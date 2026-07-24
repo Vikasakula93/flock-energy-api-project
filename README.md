@@ -129,6 +129,12 @@ http://localhost:5055/docs
 
 # API Endpoints
 
+```
+To get do all Api Endpoints: "https://flock-energy-api-project.onrender.com/docs"
+```
+
+# (or)
+
 ## 1. Get Meter List
 
 Request:
@@ -169,7 +175,7 @@ GET /api/v1/meters/{meterId}/energy
 Example:
 
 ```
-GET /api/v1/meters/J100000/energy
+http://localhost:5055/api/v1/meters/J100000/energy
 ```
 
 Response:
@@ -202,7 +208,7 @@ GET /api/v1/meters/{meterId}/geo
 Example:
 
 ```
-GET /api/v1/meters/J100000/geo
+http://localhost:5055/api/v1/meters/J100000/geo
 ```
 
 Response:
